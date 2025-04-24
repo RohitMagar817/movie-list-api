@@ -107,8 +107,8 @@
   {
     "Title": "Assassin's Creed",
     "Year": "2016",
-    "Genre": "Action, Adventure, Fantasy",
-    "Country": "UK, France, USA, Hong Kong",
+    "Genre": ["Action", "Adventure", "Fantasy"],
+    "Country": ["UK", "France", "USA", "Hong Kong"],
     "Poster": "http://ia.media-imdb.com/images/M/MV5BMTU2MTQwMjU1OF5BMl5BanBnXkFtZTgwMDA5NjU5ODE@._V1_SX300.jpg",
     "imdbRating": "N/A",
   },
@@ -120,5 +120,5 @@
     "Poster": "http://ia.media-imdb.com/images/M/MV5BMTcyMzc1MjI5MF5BMl5BanBnXkFtZTgwMzE4ODY2OTE@._V1_SX300.jpg",
     "imdbRating": "N/A",
   }
-]
+ ]
 }
