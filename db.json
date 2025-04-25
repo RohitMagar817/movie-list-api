@@ -7,12 +7,6 @@
     	"Poster": "https://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg"
   	},
   	{
-    	"Title": "I Am Legend",
-    	"Year": 2007,
-    	"Genre": ["Drama", "Horror", "Sci-Fi"],
-    	"Poster": "https://ia.media-imdb.com/images/M/MV5BMTU4NzMyNDk1OV5BMl5BanBnXkFtZTcwOTEwMzU1MQ@@._V1_SX300.jpg"
-  	},
-  	{
     	"Title": "300",
     	"Year": 2006,
     	"Genre": ["Action", "Drama", "Fantasy"],
